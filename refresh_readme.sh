@@ -1,7 +1,12 @@
 #!/bin/bash
 
+# Init constants
+prefix="https://github.com/ansonmiu0214/algorithms/tree/master"
+
+# Obtain fresh copy of template
 cp template.md README.md
 
+# Loop through files
 for file in $(find . -type d -not -path '*/\.*' -not -path .); do
 	name=${file:2}
 
@@ -10,6 +15,6 @@ for file in $(find . -type d -not -path '*/\.*' -not -path .); do
 	title=${tokens[1]}
 	
 	echo "Appending problem ${title} on ${day}..."
-	echo "${day} | ${title}" >> README.md
+	echo "${day} | [${title}](${prefix}/${name})" >> README.md
 done
 
