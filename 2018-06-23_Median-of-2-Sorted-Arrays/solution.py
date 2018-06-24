@@ -40,6 +40,46 @@ def median(A, B):
 	return (val + min(A[left], B[right])) / 2
 
 
+def median_log(A, B):
+	m, n = len(A), len(B)
+
+	inf = 999999999
+	A = [-inf] + A + [inf]
+	B = [-inf] + B + [inf]
+
+	total = m + n
+	notEven = total % 2 > 0
+	target = total // 2
+	if notEven:
+		target += 1
+
+	i, j = 1, n + 1
+	left_max = right_min = 0
+
+	while True:
+		index = i + j - 2
+
+		left_max = max(A[i-1], B[j-1])
+		right_min = min(A[i], B[j])
+
+		if index == target:
+			if left_max <= right_min:
+				break
+
+			j -= 1
+		elif index < target:
+			i += 1
+		else:
+			j -= 1
+
+	if notEven:	
+		return left_max
+
+
+	return (left_max + right_min) / 2
+
+
+
 if __name__ == "__main__":
 	print("Enter the first array with space-separated integers: ", end="")
 	nums1 = list(map(int, input().strip().split(' ')))
@@ -50,5 +90,6 @@ if __name__ == "__main__":
 	nums1.sort()
 	nums2.sort()
 	res = median(nums1, nums2)
+	# res = median_log(nums1, nums2)
 	print("The median is {}.".format(res))
 
