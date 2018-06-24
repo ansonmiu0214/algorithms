@@ -18,3 +18,5 @@ for file in $(find . -type d -not -path '*/\.*' -not -path .); do
 	echo "${day} | [${title}](${prefix}/${name})" >> README.md
 done
 
+echo "" >> README.md
+echo "Updated: $(date +%Y-%m-%d)" >> README.md
