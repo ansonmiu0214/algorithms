@@ -10,6 +10,7 @@ Date | Problem
 2018-06-24 | [String-to-Integer](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-24_String-to-Integer)
 2018-06-25 | [Longest-Palindromic-Substring](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-25_Longest-Palindromic-Substring)
 2018-06-26 | [Buddy-Strings](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-26_Buddy-Strings)
+2018-06-27 | [Min-Cost-K-Workers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-27_Min-Cost-K-Workers)
 2018-06-28 | [Score-of-Parentheses](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-28_Score-of-Parentheses)
 
-Updated: 2018-06-26
+Updated: 2018-06-27
