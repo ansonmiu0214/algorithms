@@ -1,5 +1,5 @@
 ## Problem
-Given two integers `dividend` and `divisor`, divide two integers *without using multiplication, division and mod operator*.
+Given two integers `dividend` and `divisor`, divide two integers **without using multiplication, division and mod operator**.
 
 Return the quotient after dividing `dividend` by `divisor`.
 
@@ -16,7 +16,7 @@ Input: dividend = 7, divisor = -3
 Output: -2
 ```
 
-*Note:*
+**Note:**
 
 * Both dividend and divisor will be 32-bit signed integers.
 * The divisor will never be 0.
