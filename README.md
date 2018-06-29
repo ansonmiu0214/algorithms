@@ -12,5 +12,6 @@ Date | Problem
 2018-06-26 | [Buddy-Strings](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-26_Buddy-Strings)
 2018-06-27 | [Min-Cost-K-Workers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-27_Min-Cost-K-Workers)
 2018-06-28 | [Score-of-Parentheses](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-28_Score-of-Parentheses)
+2018-06-29 | [Divide-Two-Integers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-29_Divide-Two-Integers)
 
-Updated: 2018-06-27
+Updated: 2018-06-29
