@@ -13,5 +13,6 @@ Date | Problem
 2018-06-27 | [Min-Cost-K-Workers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-27_Min-Cost-K-Workers)
 2018-06-28 | [Score-of-Parentheses](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-28_Score-of-Parentheses)
 2018-06-29 | [Divide-Two-Integers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-29_Divide-Two-Integers)
+2018-06-30 | [Regular-Expression-Matching](https://github.com/ansonmiu0214/algorithms/tree/master/2018-06-30_Regular-Expression-Matching)
 
-Updated: 2018-06-29
+Updated: 2018-06-30
