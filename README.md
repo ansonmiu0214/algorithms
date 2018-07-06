@@ -19,5 +19,6 @@ Date | Problem
 2018-07-03 | [Swap-Nodes-in-Pairs](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-03_Swap-Nodes-in-Pairs)
 2018-07-04 | [Validate-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-04_Validate-BST)
 2018-07-05 | [BST-Postorder-Traversal](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-05_BST-Postorder-Traversal)
+2018-07-06 | [Binary-Tree-to-Linked-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-06_Binary-Tree-to-Linked-List)
 
-Updated: 2018-07-05
+Updated: 2018-07-06
