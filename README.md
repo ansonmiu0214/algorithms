@@ -23,5 +23,6 @@ Date | Problem
 2018-07-07 | [Binary-Tree-Next-Pointer](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-07_Binary-Tree-Next-Pointer)
 2018-07-08 | [Kth-Smallest-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-08_Kth-Smallest-BST)
 2018-07-09 | [Partition-Linked-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-09_Partition-Linked-List)
+2018-07-10 | [First-Last-Sorted-Array](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-10_First-Last-Sorted-Array)
 
-Updated: 2018-07-08
+Updated: 2018-07-09
