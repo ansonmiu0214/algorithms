@@ -26,5 +26,6 @@ Date | Problem
 2018-07-10 | [First-Last-Sorted-Array](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-10_First-Last-Sorted-Array)
 2018-07-11 | [Sum-Root-to-Leaf-Numbers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-11_Sum-Root-to-Leaf-Numbers)
 2018-07-12 | [Multiply-Strings](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-12_Multiply-Strings)
+2018-07-13 | [Smallest-Subtree-with-all-Deepest-Nodes](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-13_Smallest-Subtree-with-all-Deepest-Nodes)
 
-Updated: 2018-07-11
+Updated: 2018-07-12
