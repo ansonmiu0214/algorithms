@@ -7,7 +7,7 @@ prefix="https://github.com/ansonmiu0214/algorithms/tree/master"
 cp template.md README.md
 
 # Loop through files
-for file in $(find . -type d -not -path '*/\.*' -not -path . | sort); do
+for file in $(find . -type d -not -path '*/\.*' -not -path . -name '20*' | sort); do
 	name=${file:2}
 
 	tokens=($(echo $name | tr "_" "\n" ))
