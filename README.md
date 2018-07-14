@@ -28,5 +28,6 @@ Date | Problem
 2018-07-12 | [Multiply-Strings](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-12_Multiply-Strings)
 2018-07-13 | [Smallest-Subtree-with-all-Deepest-Nodes](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-13_Smallest-Subtree-with-all-Deepest-Nodes)
 2018-07-14 | [BST-ZigZag-Level](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-14_BST-ZigZag-Level)
+2018-07-15 | [Merge-K-Sorted-Lists](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-15_Merge-K-Sorted-Lists)
 
 Updated: 2018-07-14
