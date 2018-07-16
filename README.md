@@ -30,5 +30,6 @@ Date | Problem
 2018-07-14 | [BST-ZigZag-Level](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-14_BST-ZigZag-Level)
 2018-07-15 | [Merge-K-Sorted-Lists](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-15_Merge-K-Sorted-Lists)
 2018-07-16 | [Remove-Nth-From-End](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-16_Remove-Nth-From-End)
+2018-07-17 | [Remove-Duplicates-From-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-17_Remove-Duplicates-From-List)
 
-Updated: 2018-07-14
+Updated: 2018-07-16
