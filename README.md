@@ -32,5 +32,6 @@ Date | Problem
 2018-07-16 | [Remove-Nth-From-End](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-16_Remove-Nth-From-End)
 2018-07-17 | [Remove-Duplicates-From-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-17_Remove-Duplicates-From-List)
 2018-07-18 | [Subsets](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-18_Subsets)
+2018-07-19 | [Implement-Trie](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-19_Implement-Trie)
 
-Updated: 2018-07-17
+Updated: 2018-07-19
