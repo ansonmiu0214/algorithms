@@ -33,5 +33,6 @@ Date | Problem
 2018-07-17 | [Remove-Duplicates-From-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-17_Remove-Duplicates-From-List)
 2018-07-18 | [Subsets](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-18_Subsets)
 2018-07-19 | [Implement-Trie](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-19_Implement-Trie)
+2018-07-20 | [Kth-Largest-Element](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-20_Kth-Largest-Element)
 
-Updated: 2018-07-19
+Updated: 2018-07-20
