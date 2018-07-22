@@ -37,5 +37,6 @@ Date | Problem
 2018-07-21 | [LRU-Cache](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-21_LRU-Cache)
 2018-07-22 | [Reorder-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-22_Reorder-List)
 2018-07-23 | [Remove-Duplicates-From-Array](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-23_Remove-Duplicates-From-Array)
+2018-07-24 | [Longest-Palindromic-Subsequence](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-24_Longest-Palindromic-Subsequence)
 
 Updated: 2018-07-22
