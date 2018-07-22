@@ -36,5 +36,6 @@ Date | Problem
 2018-07-20 | [Kth-Largest-Element](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-20_Kth-Largest-Element)
 2018-07-21 | [LRU-Cache](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-21_LRU-Cache)
 2018-07-22 | [Reorder-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-22_Reorder-List)
+2018-07-23 | [Remove-Duplicates-From-Array](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-23_Remove-Duplicates-From-Array)
 
 Updated: 2018-07-22
