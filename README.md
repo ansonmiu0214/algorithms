@@ -35,5 +35,6 @@ Date | Problem
 2018-07-19 | [Implement-Trie](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-19_Implement-Trie)
 2018-07-20 | [Kth-Largest-Element](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-20_Kth-Largest-Element)
 2018-07-21 | [LRU-Cache](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-21_LRU-Cache)
+2018-07-22 | [Reorder-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-22_Reorder-List)
 
-Updated: 2018-07-21
+Updated: 2018-07-22
