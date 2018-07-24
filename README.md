@@ -39,5 +39,7 @@ Date | Problem
 2018-07-23 | [Remove-Duplicates-From-Array](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-23_Remove-Duplicates-From-Array)
 2018-07-24 | [Longest-Palindromic-Subsequence](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-24_Longest-Palindromic-Subsequence)
 2018-07-25 | [Find-Duplicate-in-File-System](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-25_Find-Duplicate-in-File-System)
+2018-07-26 | [Decode-String](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-26_Decode-String)
+2018-07-27 | [Peek-Iterator](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-27_Peek-Iterator)
 
-Updated: 2018-07-23
+Updated: 2018-07-24
