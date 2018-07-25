@@ -23,4 +23,4 @@ class TreeNode:
 		self.right = None
 
 	def __repr__(self):
-		return "Node {} ({}) ({})".format(self.val, self.left or "", self.rght or "")
+		return "Node {} ({}) ({})".format(self.val, self.left or "", self.right or "")
