@@ -42,5 +42,6 @@ Date | Problem
 2018-07-26 | [Decode-String](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-26_Decode-String)
 2018-07-27 | [Peek-Iterator](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-27_Peek-Iterator)
 2018-07-28 | [Binary-Tree-Right-Side-View](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-28_Binary-Tree-Right-Side-View)
+2018-07-29 | [Odd-Even-Linked-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-29_Odd-Even-Linked-List)
 
-Updated: 2018-07-25
+Updated: 2018-07-27
