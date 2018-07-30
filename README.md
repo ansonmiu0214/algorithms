@@ -44,5 +44,6 @@ Date | Problem
 2018-07-28 | [Binary-Tree-Right-Side-View](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-28_Binary-Tree-Right-Side-View)
 2018-07-29 | [Odd-Even-Linked-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-29_Odd-Even-Linked-List)
 2018-07-30 | [Letter-Combinations-of-Phone-Number](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-30_Letter-Combinations-of-Phone-Number)
+2018-07-31 | [Longest-Valid-Parentheses](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-31_Longest-Valid-Parentheses)
 
-Updated: 2018-07-28
+Updated: 2018-07-30
