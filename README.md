@@ -45,5 +45,6 @@ Date | Problem
 2018-07-29 | [Odd-Even-Linked-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-29_Odd-Even-Linked-List)
 2018-07-30 | [Letter-Combinations-of-Phone-Number](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-30_Letter-Combinations-of-Phone-Number)
 2018-07-31 | [Longest-Valid-Parentheses](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-31_Longest-Valid-Parentheses)
+2018-08-01 | [Search-Insert-Position](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-01_Search-Insert-Position)
 
-Updated: 2018-07-30
+Updated: 2018-08-01
