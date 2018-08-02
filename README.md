@@ -46,5 +46,6 @@ Date | Problem
 2018-07-30 | [Letter-Combinations-of-Phone-Number](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-30_Letter-Combinations-of-Phone-Number)
 2018-07-31 | [Longest-Valid-Parentheses](https://github.com/ansonmiu0214/algorithms/tree/master/2018-07-31_Longest-Valid-Parentheses)
 2018-08-01 | [Search-Insert-Position](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-01_Search-Insert-Position)
+2018-08-02 | [Delete-Node-in-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-02_Delete-Node-in-BST)
 
-Updated: 2018-08-01
+Updated: 2018-08-02
