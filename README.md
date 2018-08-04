@@ -48,5 +48,6 @@ Date | Problem
 2018-08-01 | [Search-Insert-Position](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-01_Search-Insert-Position)
 2018-08-02 | [Delete-Node-in-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-02_Delete-Node-in-BST)
 2018-08-03 | [Flatten-Multilevel-DLL](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-03_Flatten-Multilevel-DLL)
+2018-08-04 | [Combination-Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-04_Combination-Sum)
 
-Updated: 2018-08-03
+Updated: 2018-08-04
