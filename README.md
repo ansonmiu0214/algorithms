@@ -50,5 +50,6 @@ Date | Problem
 2018-08-03 | [Flatten-Multilevel-DLL](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-03_Flatten-Multilevel-DLL)
 2018-08-04 | [Combination-Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-04_Combination-Sum)
 2018-08-05 | [Custom-Sort-String](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-05_Custom-Sort-String)
+2018-08-06 | [BST-Preorder-Traversal](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-06_BST-Preorder-Traversal)
 
-Updated: 2018-08-05
+Updated: 2018-08-06
