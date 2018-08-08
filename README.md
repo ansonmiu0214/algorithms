@@ -52,5 +52,6 @@ Date | Problem
 2018-08-05 | [Custom-Sort-String](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-05_Custom-Sort-String)
 2018-08-06 | [BST-Preorder-Traversal](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-06_BST-Preorder-Traversal)
 2018-08-07 | [Verify-Preorder-Serialisation-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-07_Verify-Preorder-Serialisation-BST)
+2018-08-08 | [Flatten-Nested-List-Iterator](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-08_Flatten-Nested-List-Iterator)
 
-Updated: 2018-08-07
+Updated: 2018-08-08
