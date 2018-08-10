@@ -55,5 +55,6 @@ Date | Problem
 2018-08-08 | [Flatten-Nested-List-Iterator](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-08_Flatten-Nested-List-Iterator)
 2018-08-09 | [Unique-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-09_Unique-BST)
 2018-08-10 | [Decode-Ways](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-10_Decode-Ways)
+2018-08-11 | [Evaluate-RPN](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-11_Evaluate-RPN)
 
 Updated: 2018-08-10
