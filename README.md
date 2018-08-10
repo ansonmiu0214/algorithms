@@ -54,5 +54,6 @@ Date | Problem
 2018-08-07 | [Verify-Preorder-Serialisation-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-07_Verify-Preorder-Serialisation-BST)
 2018-08-08 | [Flatten-Nested-List-Iterator](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-08_Flatten-Nested-List-Iterator)
 2018-08-09 | [Unique-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-09_Unique-BST)
+2018-08-10 | [Decode-Ways](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-10_Decode-Ways)
 
-Updated: 2018-08-09
+Updated: 2018-08-10
