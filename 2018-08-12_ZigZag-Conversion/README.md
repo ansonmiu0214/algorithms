@@ -35,3 +35,9 @@ P     I
 ```
 
 [Source](https://leetcode.com/problems/zigzag-conversion/description/)
+
+## Approach
+Iteratively organise characters into the correct rows and read off line by line. Keep track of correct row using `row` variable and emulate behaviour of on-column or on-diagonal using `diag` boolean flag.
+
+* `O(n)` running time complexity.
+* `O(n)` space complexity.
