@@ -62,5 +62,6 @@ Date | Problem
 2018-08-15 | [3Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-15_3Sum)
 2018-08-16 | [Next-Permutation](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-16_Next-Permutation)
 2018-08-17 | [3Sum-Closest](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-17_3Sum-Closest)
+2018-08-18 | [MyPow](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-18_MyPow)
 
-Updated: 2018-08-15
+Updated: 2018-08-16
