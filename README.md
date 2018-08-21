@@ -65,5 +65,6 @@ Date | Problem
 2018-08-18 | [MyPow](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-18_MyPow)
 2018-08-19 | [4Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-19_4Sum)
 2018-08-20 | [Search-Rotated-Sorted](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-20_Search-Rotated-Sorted)
+2018-08-21 | [Maximum-Depth-Binary-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-21_Maximum-Depth-Binary-Tree)
 
-Updated: 2018-08-20
+Updated: 2018-08-21
