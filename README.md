@@ -66,5 +66,6 @@ Date | Problem
 2018-08-19 | [4Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-19_4Sum)
 2018-08-20 | [Search-Rotated-Sorted](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-20_Search-Rotated-Sorted)
 2018-08-21 | [Maximum-Depth-Binary-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-21_Maximum-Depth-Binary-Tree)
+2018-08-22 | [Edit-Distance](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-22_Edit-Distance)
 
-Updated: 2018-08-21
+Updated: 2018-08-22
