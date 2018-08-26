@@ -68,5 +68,6 @@ Date | Problem
 2018-08-21 | [Maximum-Depth-Binary-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-21_Maximum-Depth-Binary-Tree)
 2018-08-22 | [Edit-Distance](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-22_Edit-Distance)
 2018-08-25 | [Minimum-Moves-to-Equal-Array-Elements](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-25_Minimum-Moves-to-Equal-Array-Elements)
+2018-08-26 | [Single-Element-in-Sorted-Array](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-26_Single-Element-in-Sorted-Array)
 
-Updated: 2018-08-25
+Updated: 2018-08-26
