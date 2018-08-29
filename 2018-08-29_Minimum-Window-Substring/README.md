@@ -12,3 +12,10 @@ Output: "BANC"
 ```
 
 [Source](https://leetcode.com/problems/minimum-window-substring/description/)
+
+## Approach
+Sliding window approach with the use of dictionaries and sets to keep track of letter frequency since t can contain duplicate letters. Extend window if match not found and shrink window if match found to find smaller window that still matches.
+
+Given that M = len(s) and N = len(T), the complexity analysis is as follow:
+* O(N) patternFreq setup + O(M) windowFreq setup + O(M) lettersMatched init + (O(M) sliding window * O(1) dictionary lookups) = O(M + N) running time complexity
+* O(N) patternFreq size + O(M) windowFreq size + O(N) lettersMatched size = O(M + N) space complexity
