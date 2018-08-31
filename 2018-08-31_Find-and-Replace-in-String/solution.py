@@ -1,8 +1,10 @@
 #!/bin/python3
 
+"""
+Apply find-and-replace incrementally, from left to right (achieved by sorting). Replace with target if source matches, and keep track of the 'end' pointer (the last char replaced), so any intervals not covered by the index can be known and the original chars are copied down.
+"""
 def findReplaceString(S, indexes, sources, targets):
 	res = ""
-	offset = 0
 	end = 0
 
 	data = sorted(zip(indexes, sources, targets))
@@ -13,10 +15,11 @@ def findReplaceString(S, indexes, sources, targets):
 
 		srcLen = len(src)
 		if S[idx:(idx+srcLen)] == src:
+			# include target if matched
 			res += target
-			offset += len(target) - srcLen
 			end += srcLen
 
+	# need to add on any residual letters
 	res += S[end:len(S)]
 	return res
 
