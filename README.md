@@ -74,5 +74,6 @@ Date | Problem
 2018-08-29 | [Minimum-Window-Substring](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-29_Minimum-Window-Substring)
 2018-08-31 | [Find-and-Replace-in-String](https://github.com/ansonmiu0214/algorithms/tree/master/2018-08-31_Find-and-Replace-in-String)
 2018-09-01 | [Diagonal-Traverse](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-01_Diagonal-Traverse)
+2018-09-02 | [Binary-Tree-Level-Order-Traversal](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-02_Binary-Tree-Level-Order-Traversal)
 
-Updated: 2018-09-01
+Updated: 2018-09-02
