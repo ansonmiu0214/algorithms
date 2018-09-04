@@ -78,5 +78,6 @@ Date | Problem
 2018-09-03 | [Convert-Sorted-List-to-Binary-Search-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-03_Convert-Sorted-List-to-Binary-Search-Tree)
 2018-09-04 | [Maximum-Width-of-Binary-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-04_Maximum-Width-of-Binary-Tree)
 2018-09-05 | [Increasing-Order-Search-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-05_Increasing-Order-Search-Tree)
+2018-09-06 | [Compare-Version-Numbers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-06_Compare-Version-Numbers)
 
-Updated: 2018-09-03
+Updated: 2018-09-04
