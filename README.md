@@ -79,5 +79,6 @@ Date | Problem
 2018-09-04 | [Maximum-Width-of-Binary-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-04_Maximum-Width-of-Binary-Tree)
 2018-09-05 | [Increasing-Order-Search-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-05_Increasing-Order-Search-Tree)
 2018-09-06 | [Compare-Version-Numbers](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-06_Compare-Version-Numbers)
+2018-09-07 | [Leaf-Similar-Trees](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-07_Leaf-Similar-Trees)
 
-Updated: 2018-09-04
+Updated: 2018-09-06
