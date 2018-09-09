@@ -82,5 +82,6 @@ Date | Problem
 2018-09-07 | [Leaf-Similar-Trees](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-07_Leaf-Similar-Trees)
 2018-09-08 | [Minimum-Size-Subarray-Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-08_Minimum-Size-Subarray-Sum)
 2018-09-09 | [Binary-Tree-Pruning](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-09_Binary-Tree-Pruning)
+2018-09-10 | [Daily-Temperatures](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-10_Daily-Temperatures)
 
-Updated: 2018-09-06
+Updated: 2018-09-09
