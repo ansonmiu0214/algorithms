@@ -83,5 +83,6 @@ Date | Problem
 2018-09-08 | [Minimum-Size-Subarray-Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-08_Minimum-Size-Subarray-Sum)
 2018-09-09 | [Binary-Tree-Pruning](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-09_Binary-Tree-Pruning)
 2018-09-10 | [Daily-Temperatures](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-10_Daily-Temperatures)
+2018-09-11 | [Coin-Change](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-11_Coin-Change)
 
-Updated: 2018-09-09
+Updated: 2018-09-10
