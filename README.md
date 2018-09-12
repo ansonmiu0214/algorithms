@@ -84,5 +84,6 @@ Date | Problem
 2018-09-09 | [Binary-Tree-Pruning](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-09_Binary-Tree-Pruning)
 2018-09-10 | [Daily-Temperatures](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-10_Daily-Temperatures)
 2018-09-11 | [Coin-Change](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-11_Coin-Change)
+2018-09-12 | [Valid-Sudoku](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-12_Valid-Sudoku)
 
-Updated: 2018-09-10
+Updated: 2018-09-12
