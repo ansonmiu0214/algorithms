@@ -86,5 +86,6 @@ Date | Problem
 2018-09-11 | [Coin-Change](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-11_Coin-Change)
 2018-09-12 | [Valid-Sudoku](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-12_Valid-Sudoku)
 2018-09-13 | [Linked-List-Components](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-13_Linked-List-Components)
+2018-09-14 | [Valid-Parenthesis-String](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-14_Valid-Parenthesis-String)
 
-Updated: 2018-09-12
+Updated: 2018-09-14
