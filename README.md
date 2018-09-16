@@ -88,5 +88,6 @@ Date | Problem
 2018-09-13 | [Linked-List-Components](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-13_Linked-List-Components)
 2018-09-14 | [Valid-Parenthesis-String](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-14_Valid-Parenthesis-String)
 2018-09-15 | [Subarray-Sum-Equals-K](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-15_Subarray-Sum-Equals-K)
+2018-09-16 | [Maximum-Product-Subarray](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-16_Maximum-Product-Subarray)
 
-Updated: 2018-09-15
+Updated: 2018-09-16
