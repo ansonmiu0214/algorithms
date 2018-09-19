@@ -91,5 +91,6 @@ Date | Problem
 2018-09-16 | [Maximum-Product-Subarray](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-16_Maximum-Product-Subarray)
 2018-09-17 | [Add-One-Row-To-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-17_Add-One-Row-To-Tree)
 2018-09-18 | [Boats-to-Save-People](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-18_Boats-to-Save-People)
+2018-09-19 | [Delete-Operation-for-Two-Strings](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-19_Delete-Operation-for-Two-Strings)
 
-Updated: 2018-09-18
+Updated: 2018-09-19
