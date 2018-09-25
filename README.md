@@ -97,5 +97,6 @@ Date | Problem
 2018-09-22 | [Find-and-Replace-Pattern](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-22_Find-and-Replace-Pattern)
 2018-09-23 | [Product-of-Array-Except-Self](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-23_Product-of-Array-Except-Self)
 2018-09-24 | [Merge-Intervals](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-24_Merge-Intervals)
+2018-09-25 | [Rotate-List](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-25_Rotate-List)
 
-Updated: 2018-09-24
+Updated: 2018-09-25
