@@ -101,5 +101,6 @@ Date | Problem
 2018-09-26 | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-26_Lowest-Common-Ancestor-of-a-Binary-Tree)
 2018-09-27 | [Path-Sum-II](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-27_Path-Sum-II)
 2018-09-28 | [Minimum-Path-Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-28_Minimum-Path-Sum)
+2018-09-29 | [Search-a-2D-Matrix](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-29_Search-a-2D-Matrix)
 
-Updated: 2018-09-26
+Updated: 2018-09-29
