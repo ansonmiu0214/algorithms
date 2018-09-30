@@ -24,6 +24,8 @@ Output: 4
 Explanation: left = [1,1,1,0], right = [6,12]
 ```
 
+[Source](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/)
+
 ## Approach
 Looking for smallest `i` such that `max(A[:i]) <= min(A[i:])`.
 Do preprocessing to calculate `max(A[:i])` and `min(A[i:])` first, then
