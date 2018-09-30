@@ -103,5 +103,6 @@ Date | Problem
 2018-09-28 | [Minimum-Path-Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-28_Minimum-Path-Sum)
 2018-09-29 | [Search-a-2D-Matrix](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-29_Search-a-2D-Matrix)
 2018-09-30 | [Jump-Game](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-30_Jump-Game)
+2018-10-01 | [Partition-Array-into-Disjoint-Intervals](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-01_Partition-Array-into-Disjoint-Intervals)
 
 Updated: 2018-09-30
