@@ -106,5 +106,6 @@ Date | Problem
 2018-10-01 | [Partition-Array-into-Disjoint-Intervals](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-01_Partition-Array-into-Disjoint-Intervals)
 2018-10-02 | [Smallest-Range-II](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-02_Smallest-Range-II)
 2018-10-03 | [Simplify-Path](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-03_Simplify-Path)
+2018-10-04 | [Shifting-Letters](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-04_Shifting-Letters)
 
 Updated: 2018-10-03
