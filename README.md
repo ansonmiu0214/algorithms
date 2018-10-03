@@ -105,5 +105,6 @@ Date | Problem
 2018-09-30 | [Jump-Game](https://github.com/ansonmiu0214/algorithms/tree/master/2018-09-30_Jump-Game)
 2018-10-01 | [Partition-Array-into-Disjoint-Intervals](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-01_Partition-Array-into-Disjoint-Intervals)
 2018-10-02 | [Smallest-Range-II](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-02_Smallest-Range-II)
+2018-10-03 | [Simplify-Path](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-03_Simplify-Path)
 
 Updated: 2018-10-03
