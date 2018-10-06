@@ -107,5 +107,6 @@ Date | Problem
 2018-10-02 | [Smallest-Range-II](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-02_Smallest-Range-II)
 2018-10-03 | [Simplify-Path](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-03_Simplify-Path)
 2018-10-04 | [Shifting-Letters](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-04_Shifting-Letters)
+2018-10-06 | [Summary-Ranges](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-06_Summary-Ranges)
 
-Updated: 2018-10-03
+Updated: 2018-10-06
