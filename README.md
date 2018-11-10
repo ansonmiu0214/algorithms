@@ -110,5 +110,9 @@ Date | Problem
 2018-10-06 | [Summary-Ranges](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-06_Summary-Ranges)
 2018-10-07 | [H-Index-II](https://github.com/ansonmiu0214/algorithms/tree/master/2018-10-07_H-Index-II)
 2018-11-05 | [Minimum-Falling-Path-Sum](https://github.com/ansonmiu0214/algorithms/tree/master/2018-11-05_Minimum-Falling-Path-Sum)
+2018-11-06 | [Fix-Brackets](https://github.com/ansonmiu0214/algorithms/tree/master/2018-11-06_Fix-Brackets)
+2018-11-07 | [Longest-Path-in-Matrix](https://github.com/ansonmiu0214/algorithms/tree/master/2018-11-07_Longest-Path-in-Matrix)
+2018-11-08 | [Word-Search](https://github.com/ansonmiu0214/algorithms/tree/master/2018-11-08_Word-Search)
+2018-11-10 | [N-Queens](https://github.com/ansonmiu0214/algorithms/tree/master/2018-11-10_N-Queens)
 
-Updated: 2018-11-05
+Updated: 2018-11-10
