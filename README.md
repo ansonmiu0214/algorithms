@@ -118,5 +118,6 @@ Date | Problem
 2018-11-18 | [Range-Sum-of-BST](https://github.com/ansonmiu0214/algorithms/tree/master/2018-11-18_Range-Sum-of-BST)
 2018-12-15 | [Flip-Equivalent-Binary-Trees](https://github.com/ansonmiu0214/algorithms/tree/master/2018-12-15_Flip-Equivalent-Binary-Trees)
 2018-12-16 | [Minimum-Increment-Make-Array-Unique](https://github.com/ansonmiu0214/algorithms/tree/master/2018-12-16_Minimum-Increment-Make-Array-Unique)
+2018-12-20 | [All-Possible-FBT](https://github.com/ansonmiu0214/algorithms/tree/master/2018-12-20_All-Possible-FBT)
 
-Updated: 2018-12-16
+Updated: 2018-12-20
