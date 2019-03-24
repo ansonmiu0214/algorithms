@@ -120,5 +120,6 @@ Date | Problem
 2018-12-16 | [Minimum-Increment-Make-Array-Unique](https://github.com/ansonmiu0214/algorithms/tree/master/2018-12-16_Minimum-Increment-Make-Array-Unique)
 2018-12-20 | [All-Possible-FBT](https://github.com/ansonmiu0214/algorithms/tree/master/2018-12-20_All-Possible-FBT)
 2018-12-21 | [Array-of-Doubled-Pairs](https://github.com/ansonmiu0214/algorithms/tree/master/2018-12-21_Array-of-Doubled-Pairs)
+2019-03-24 | [Fruit-into-Baskets](https://github.com/ansonmiu0214/algorithms/tree/master/2019-03-24_Fruit-into-Baskets)
 
-Updated: 2018-12-21
+Updated: 2019-03-24
