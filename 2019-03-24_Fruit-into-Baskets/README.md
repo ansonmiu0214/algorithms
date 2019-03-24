@@ -52,9 +52,11 @@ For each index, keep track of the length of the longest subarray that contains a
 
 Trivial solution starting from tree[n-1] - can only collect 1.
 For a solution starting from tree[i]:
-	* If `tree[i] == tree[i+1]`, extend all counts
-	* If `tree[i] != tree[i+1]` but `tree[i]` is the same element as the 2nd element of the longest subarray of 2 unique starting from `tree[i+1]`, extend that particular count
-	* Otherwise, reset all counts
+
+* If `tree[i] == tree[i+1]`, extend all counts
+* If `tree[i] != tree[i+1]` but `tree[i]` is the same element as the 2nd element of the longest subarray of 2 unique starting from `tree[i+1]`, extend that particular count
+* Otherwise, reset all counts
+
 
 * O(n) time complexity
 * O(1) space complexity for the accumulators
